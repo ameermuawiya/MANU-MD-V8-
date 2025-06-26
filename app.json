@@ -9,7 +9,7 @@
         "SESSION_ID": {
             "description": "Type the Session-ID you got from pair or scan qr.",
             "required": true,
-            "value": "Manu-MD&2M0wmaoS#VIQZkcCvT4TCu3DfRz_Oz0VJVjlKCXFhdEVqSM5-WH4"
+            "value": "Manu-MD&rAtkzZTa#9BBvOX2eWXml4QZ8LNIEbkP_O09c9vzHlSXCZ0gbi5Q"
         }
     },
     "buildpacks": [
